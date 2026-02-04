@@ -1,0 +1,14 @@
+<img width="1439" height="777" alt="HomePageDesktopView" src="https://github.com/user-attachments/assets/66904adc-2993-4b84-b94a-c5dc448190dc" />
+<img width="412" height="777" alt="HomePageMobileView" src="https://github.com/user-attachments/assets/f2fac8c8-bd6c-4965-9a24-e34dd28b3654" />
+<img width="1439" height="777" alt="LoginDesktopView" src="https://github.com/user-attachments/assets/981e7365-60fb-44a7-8651-0800b54b8d4f" />
+<img width="410" height="729" alt="LoginMobileView" src="https://github.com/user-attachments/assets/7cd21425-0aa2-4833-bafc-e1021c085e53" />
+<img width="1439" height="725" alt="RecipeDetailsDesktopView" src="https://github.com/user-attachments/assets/bc9ccfca-1fc9-4687-be13-4c5f4feb47ae" />
+<img width="1439" height="777" alt="RecipeDetailsDesktopView2" src="https://github.com/user-attachments/assets/14bcc466-7c48-4ac7-88c3-2e9c37bc3fa8" />
+<img width="432" height="770" alt="RecipeDetailsMobileView" src="https://github.com/user-attachments/assets/bdee8416-82c2-4567-b2b4-68e78354e339" />
+<img width="1439" height="777" alt="RegisterDesktopView" src="https://github.com/user-attachments/assets/dae03c7d-1063-4918-8288-684afee01a13" />
+<img width="469" height="777" alt="RegisterMobileView" src="https://github.com/user-attachments/assets/5a2e16c3-9f11-44ea-8bb5-2e0694824ff2" />
+<img width="1440" height="771" alt="SearchPage-DesktopView" src="https://github.com/user-attachments/assets/bf495db1-89e9-411f-9d06-1710bc57eae4" />
+<img width="1440" height="778" alt="SearchResult-DesktopView" src="https://github.com/user-attachments/assets/cb811b07-45d0-486c-9f6a-a488fc558747" />
+<img width="411" height="778" alt="SearchResult-MobileView" src="https://github.com/user-attachments/assets/69858811-1f03-45c6-83fa-533e12eb6d70" />
+<img width="1439" height="777" alt="UserProfileDesktopView" src="https://github.com/user-attachments/assets/13b94e74-fd60-4d35-9617-5c01151ac00c" />
+<img width="433" height="773" alt="UserProfileMobileView" src="https://github.com/user-attachments/assets/acef2523-cc3d-432e-9b9c-1506efb1bf6f" />
